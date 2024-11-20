@@ -11,7 +11,7 @@ This repository contains a Jupyter Notebook 📓 that:
 
 # 🛠️ Installation
 1. Clone the repository:
-git clone https://github.com/your-username/dr-semmelweis-handwashing.git
+git clone [https://github.com/your-username/dr-semmelweis-handwashing.git](https://github.com/priyankaa-roy/Dr.-Semmelweis-and-the-Effect-of-Handwashing/tree/main)
 2. Install the required Python packages:
 pip install -r requirements.txt
 
